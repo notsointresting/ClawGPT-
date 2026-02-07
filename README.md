@@ -34,8 +34,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ClawGPT.git
-   cd ClawGPT
+   git clone https://github.com/yourusername/ClawGPT-.git
+   cd ClawGPT-
    ```
 
 2. **Create virtual environment**
